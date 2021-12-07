@@ -1,0 +1,145 @@
+<linker>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.ShaderVariantCollection" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.Cubemap" preserve="all" />
+    <type fullname="UnityEngine.RenderSettings" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.LightmapSettings" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.LightProbes" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioListener" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Veyond.ARTB.Gameplay.SeasonToggle" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.Ar.GameplayGate" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.CourtCharacter" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.TerrainAnimation" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.TweenColor" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.Ar.GameplayContourLine" preserve="all" />
+    <type fullname="TextureOffsetAnimation" preserve="all" />
+    <type fullname="Veyond.ARTB.ProjectConfig" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.TerrainHighlightToggle" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.Pc.GameplayCourt" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.CourtPlayUIController" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.Ar.GameplayCourt" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.Pc.GameplayContourLine" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.Ar.GameplayCastle" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.Ar.GameplaySeason" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.RotateModel" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.Pc.GameplaySeason" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.Pc.GameplayGate" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.CourtAudioMessageUIController" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.Pc.GameplayCastle" preserve="all" />
+    <type fullname="NorthGateHighlight" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.CourtHighlightToggle" preserve="all" />
+    <type fullname="Veyond.ARTB.UI.UiLoading" preserve="all" />
+    <type fullname="Veyond.ARTB.UI.UiDragEvent" preserve="all" />
+    <type fullname="Veyond.ARTB.UI.UiZoomingHandle" preserve="all" />
+    <type fullname="Veyond.ARTB.UI.UiModelOptionMenu_Pc" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.Pc.PcGameplayStartup" preserve="all" />
+    <type fullname="Veyond.ARTB.Session.AndroidArLobbySession" preserve="all" />
+    <type fullname="Veyond.ARTB.Session.ArGameplaySession" preserve="all" />
+    <type fullname="Veyond.ARTB.Session.PcGameplaySession" preserve="all" />
+    <type fullname="Veyond.Utility.DontDestroy" preserve="all" />
+    <type fullname="Veyond.ARTB.Session.Startup" preserve="all" />
+    <type fullname="Veyond.ARTB.Session.IosArLobbySession" preserve="all" />
+    <type fullname="Veyond.ARTB.Session.ArSession" preserve="all" />
+    <type fullname="Veyond.ARTB.UI.UiVersionTextModifier" preserve="all" />
+    <type fullname="Veyond.ARTB.UI.UiLobby" preserve="all" />
+    <type fullname="Veyond.ARTB.UI.UiArNoticeConfirm" preserve="all" />
+    <type fullname="UnityEngine.UI.Extensions.HorizontalScrollSnap" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.Ar.ArLobbyStartup" preserve="all" />
+    <type fullname="Veyond.ARTB.UI.UiLobbyElementAnimation" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.Ar.ImageTrackingController" preserve="all" />
+    <type fullname="Veyond.ARTB.Gameplay.Ar.ArGameplayStartup" preserve="all" />
+    <type fullname="Veyond.ARTB.UI.UiNotSupportMessage" preserve="all" />
+    <type fullname="UiNeedInstallMessage" preserve="all" />
+    <type fullname="Veyond.ARTB.UI.UiBackBtn" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Timeline, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Timeline.AnimationTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.TimelineAsset" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEditor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEditor.MonoScript" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.DirectorModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Playables.PlayableDirector" preserve="all" />
+  </assembly>
+  <assembly fullname="Cinemachine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="CinemachineCameraOffset" preserve="all" />
+    <type fullname="Cinemachine.CinemachineFreeLook" preserve="all" />
+    <type fullname="Cinemachine.CinemachineOrbitalTransposer" preserve="all" />
+    <type fullname="Cinemachine.CinemachineComposer" preserve="all" />
+    <type fullname="Cinemachine.CinemachinePipeline" preserve="all" />
+    <type fullname="Cinemachine.CinemachineVirtualCamera" preserve="all" />
+    <type fullname="Cinemachine.CinemachineBrain" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.XR.ARFoundation, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.XR.ARFoundation.ARPoseDriver" preserve="all" />
+    <type fullname="UnityEngine.XR.ARFoundation.ARTrackedImageManager" preserve="all" />
+    <type fullname="UnityEngine.XR.ARFoundation.ARSession" preserve="all" />
+    <type fullname="UnityEngine.XR.ARFoundation.ARCameraManager" preserve="all" />
+    <type fullname="UnityEngine.XR.ARFoundation.ARSessionOrigin" preserve="all" />
+    <type fullname="UnityEngine.XR.ARFoundation.ARInputManager" preserve="all" />
+    <type fullname="UnityEngine.XR.ARFoundation.ARCameraBackground" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.XR.ARSubsystems, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary" preserve="all" />
+  </assembly>
+</linker>
